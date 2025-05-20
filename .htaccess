@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Passwortgeschützter Bereich"
+AuthUserFile https://danenn.github.io/.htpasswd
+Require valid-user
